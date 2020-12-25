@@ -7,7 +7,7 @@ export default function Home() {
     <div style={{ color: `purple` }}>
       <Link to="/contact/">Contact</Link>
       <Header headerText="Hello Gatsby!" />
-      <p>What a Beautiful world.</p>
+      <p>我不是一定要你回来</p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
     </div>
   )
